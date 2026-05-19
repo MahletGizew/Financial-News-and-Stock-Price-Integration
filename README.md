@@ -1,11 +1,11 @@
-
+﻿
 <h1>Financial News and Stock Price Integration</h1>
 
 <h2>Description</h2>
 <p>This repository contains code and analysis for integrating financial news data with stock price data.</p>
 
 <h2>Author</h2>
-<p>Author: Mihret Agegnehu</p>
+<p>Author: Mahlet Agegnehu</p>
 
 <h2>Folder Structure</h2>
 <pre>
